@@ -1,0 +1,6 @@
+[submodule "tech/js/gapp"]
+	path = tech/js/gapp
+	url = https://github.com/isysd/gapp.git
+[submodule "tech/js/guld-vrcave"]
+	path = tech/js/guld-vrcave
+	url = https://github.com/isysd/guld-vrcave.git
