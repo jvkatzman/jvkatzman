@@ -4,3 +4,6 @@
 [submodule "tech/js/guld-vrcave"]
 	path = tech/js/guld-vrcave
 	url = https://github.com/isysd/guld-vrcave.git
+[submodule "life/isysd"]
+	path = life/isysd
+	url = https://github.com/isysd/isysd.git
